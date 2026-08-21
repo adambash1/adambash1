@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adambash1
-- 🌱 I’m currently learning python
-- 💞️ I’m currently open for A new job opportunity
+- 🌱 I’m currently learning OSINT
+- 💞️ Currently co-building (https://www.novexel.co.uk/)
 - 📫 How to reach me [adambashir201@yahoo.com]
 
 <!---
